@@ -8,5 +8,5 @@ C++ and sfml implementation of Conway's 2D cellular automata
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `Dead Cells`
 - ![#DA70D6](https://placehold.co/15x15/DA70D6/DA70D6.png) `Multi State`
 - use arrow keys to move around  
-- 
+
 ![conway](https://user-images.githubusercontent.com/95920190/211414165-a03589b4-d3d5-483d-82e1-e6d60edfb432.PNG)
